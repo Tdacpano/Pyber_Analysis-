@@ -19,6 +19,9 @@ Module 5
  
  This now allowed us to create the multiple line graph showing the total weekly fares for each city type. 
  <img width="892" alt="Screen Shot 2022-12-16 at 10 42 56 AM" src="https://user-images.githubusercontent.com/117120227/208167161-0053d62e-d62b-4112-9e6d-86c02fdc8b46.png">
+ 
+ Based on the results it is clear that Pyber is used most inn Urban cities. There is some flunctuation in the total fare amount in the month of March, but other than that Urban cities are pretty consistent. Rural cities receive the lowest amount of total fare out of the three cities, while Suburban cities are in the middle of both Rural and Urban. 
 
 
 # Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+
