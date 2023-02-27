@@ -1,7 +1,12 @@
-# Pyber_Analysis-
-Module 5 
-# Overview of the analysis
-   In this analysis, we are analyzed all the rideshare data from January to early May of 2019 for the ride-sharing app, Pyber. The analysis consists of a summary DataFrame of the ride-sharing data by city type. Followed by a multiple line graph showing the total weekly fares for each city type. 
+# Pyber_Analysis
+# Overview 
+   This analysis analyzed all the rideshare data from January to early May of 2019 for the ride-sharing app, Pyber. We used Matplotlib to create line charts, bar charts, scatter plots, bubble charts, pie charts, and box-and-whisker plots, and made them visually compelling and informative by adding titles, axes labels, legends, and custom colors. Additionally, used Pandas, SciPy, and NumPy to perform summary statistics.
+
+# Deliverable 1: A ride-sharing summary DataFrame by city type
+   Using new Python skills and knowledge of Pandas, we created a summary DataFrame of the ride-sharing data by city type. Then, using Pandas and Matplotlib, we created a multiple-line graph that shows the total weekly fares for each city type. We continued used Pandas functions in order to get the total number of rides, total number of drivers, and the total fares for each city type. Then, calculated the average fare per ride and average fare per driver for each city type
+
+# Deliverable 2: A multiple-line chart of total fares for eac city type
+   Using Pandas and two new functions, pivot() andresample(), we created a multiple-line graph that shows the total fares for each week by city type. 
 
 # Results
   To begin the analysis we needed to gather the total amount of fares, total rides, and total drivers per each city type. We then took this data and found the average fare per each ride and driver for each city. This allowed us to create a summary DataFrame to outline how Pyber did within each city. 
